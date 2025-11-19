@@ -17,6 +17,14 @@
 
 ## 🗃️ Структура проекта
 <!-- STRUCTURE_START -->
+```text
+.
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── tree_output.txt
+```
 <!-- STRUCTURE_END -->
 
 ## ⚙️🛠️ Технологии
